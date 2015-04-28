@@ -15,7 +15,7 @@ public class combo extends JFrame {
 	private static final long serialVersionUID = 1L;
 	String[] months = { "1, January", "2, February", "3, March", "4, April",
 			"5, May", "6, June", "7, July", "8, August", "9, " + "September",
-			"10, October", "11, November", "12, December"}
+			"10, October", "11, November", "12, December"};
 	String[] days = { "1" ,"2", "3", "4",
 			"5", "6", "7", "8", "9, " ,
 			"10", "11", "12", "13","14","15","16","17","18","19","20","21",
